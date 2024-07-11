@@ -1,0 +1,4 @@
+dateObserved,id,temperature,relativeHumidity,location,type,dataProvider
+2024-05-30T10:00:00Z,sensor_1,22.5,55,"{'type': 'Point', 'coordinates': [5.481549426062068, 51.452869111964304]}",WeatherObserved,ExampleProvider
+2024-05-30T11:00:00Z,sensor_2,23.2,60,"{'type': 'Point', 'coordinates': [5.481549426062068, 51.452869111964304]}",WeatherObserved,ExampleProvider
+2024-05-30T12:00:00Z,sensor_3,21.8,52,"{'type': 'Point', 'coordinates': [5.481549426062068, 51.452869111964304]}",WeatherObserved,ExampleProvider
